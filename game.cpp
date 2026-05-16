@@ -105,7 +105,7 @@ void showHelp() {
 // intro story
 void intro() {
     cout << "You are studying for a calculus final." << endl;
-    cout << "The review sheet becomes alive." << endl;
+    cout << "The equations, out of nowhere, become alive." << endl;
     cout << "Now you have to fight random Calc 1, Calc 2, and Calc 3 equations." << endl;
     cout << "This is simple. Just survive and get a good score." << endl;
     pause();
